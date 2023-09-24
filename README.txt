@@ -1,0 +1,2 @@
+You can find the necessary text files to properly use the notebook on this site : https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/
+BEWARE: The files can be a bit large, so it may take some time to process them if your computer isn't that powerful
